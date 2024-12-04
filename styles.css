@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Satisfy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   /* background-image: url(https://png.pngtree.com/background/20230618/original/pngtree-visualizing-e-commerce-in-benin-through-3d-rendering-for-social-media-picture-image_3753644.jpg);*/
+    
+    
+}
+body{
+    background-color: teal;
+}
+.navbar{
+    background-color:crimson;
+    font-family: "Cinzel", serif;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+
+}
+.navdiv{
+    /*display: flex;*/
+    align-items: center;
+    justify-content: space-between;
+    text-align: right;
+    margin-bottom: 20px;
+    
+    
+    
+
+}
+.logo{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+}
+li{
+    display: inline;
+
+    
+}
+li a{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 25px;
+
+    
+
+}
+button{
+    background-color: black;
+    width: 90px;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px ;
+
+}
+button a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+#container{
+    
+    font-family: "Cinzel", serif;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+img{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+footer{
+    color: white;
+    text-align: center;
+    margin-right: 25%;
+    margin-left: 25%;
+   }
